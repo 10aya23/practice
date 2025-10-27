@@ -13,3 +13,4 @@ public String getName(){returm this.name;}
   public int getPrice(){returm this.price;}
   public String getColor(){returm this.color;}
   
+}
